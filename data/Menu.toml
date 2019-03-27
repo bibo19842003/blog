@@ -1,0 +1,14 @@
+[docker]
+    Name = "Docker"
+    Title = "Show list of docker"
+    URL = "/docker"
+
+[tags]
+    Name = "Tags"
+    Title = "Show list of tags"
+    URL = "/tags"
+
+[about]
+    Name = "About"
+    URL = "/about"
+
